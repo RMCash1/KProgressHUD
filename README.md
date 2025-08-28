@@ -1,4 +1,3 @@
-A progress HUD implementation for Android.
-Android 2.3 and later
+A progress HUD implementation for Android
 ksjfelwifjzsqtest-ind-apiaabbddfyinformationaabbddccqszdklfeidlf
-You can also create a custom view to be displayed.
+You can also create a custom view to be displayed
